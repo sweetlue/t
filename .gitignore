@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# custom
+.idea
+.DB_Store
+*.pyc
+*.sqlite3
+__pycache__
+*.log
+.venv
+medias/*
+
